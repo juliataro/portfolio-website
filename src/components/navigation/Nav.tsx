@@ -44,7 +44,7 @@ const Nav: React.FC = () => {
       ],
     },
     { text: "GitHub", external: true, path: "https://github.com/juliataro" },
-    { text: "CV", external: true, path: "projects/cv" },
+    { text: "CV", external: true, path: "/projects/cv" },
   ];
 
   const renderDrawerLinks = () => (
