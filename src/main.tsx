@@ -11,7 +11,7 @@ import Almarpuit from "./projects/almarpuit";
 
 import Peipsikaup from "./projects/peipsikaup";
 import "./index.css";
-import CVProject from "./projects/CV";
+import CVProject from "./projects/cv";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
