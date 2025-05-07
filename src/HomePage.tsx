@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "./index.css";
 import Nav from "./components/navigation/Nav";
 import img1 from "./assets/images/almarpuit/almar-design.jpg";
@@ -69,9 +70,8 @@ const designProjects = [
 ];
 
 export default function HomePage() {
-  const buttonStyle = {
-    color: "#05d7e6",
-  };
+  const buttonStyle = { color: "#05d7e6" };
+
   return (
     <>
       <Nav />
@@ -89,10 +89,7 @@ export default function HomePage() {
             <div className="about-column">
               <h2>ABOUT</h2>
               <p>
-                <ReadMoreArea
-                  buttonStyle={buttonStyle}
-                  lettersLimit={330} // limit of letters (100 letters)
-                >
+                <ReadMoreArea buttonStyle={buttonStyle} lettersLimit={330}>
                   I worked for about 15 years as a graphic designer, helping
                   customers make their visual identity attractive — both as a
                   team member and freelancer. This sparked my interest in
@@ -114,11 +111,11 @@ export default function HomePage() {
                   <strong className="skill-name">
                     Data Analytics (taking course 12/24 - 08/25):
                   </strong>{" "}
-                  SQL, Excel, Python(studying)
+                  SQL, Excel, Python (studying)
                 </li>
                 <li>
                   <strong className="skill-name">Web Development:</strong>{" "}
-                  React, JS, TS, WP, ExpressJS, SQL, NoSQL, Angular(studying)
+                  React, JS, TS, WP, ExpressJS, SQL, NoSQL, Angular (studying)
                 </li>
                 <li>
                   <strong className="skill-name">UX/UI Design:</strong> Figma,
@@ -139,21 +136,19 @@ export default function HomePage() {
             <h2 className="web-dev">WEB DEV</h2>
             <div className="grid">
               {webProjects.map((project) => (
-                <a
-                  target="_blank"
-                  href={project.link}
+                <Link
+                  to={project.link}
                   key={project.name}
                   className="project-card"
                 >
                   <img
                     src={project.image}
-                    alt={`${project.name}`}
+                    alt={project.name}
                     className="project-image"
                   />
-
                   <h3>{project.name}</h3>
                   <p>{project.description}</p>
-                </a>
+                </Link>
               ))}
             </div>
           </div>
@@ -168,13 +163,14 @@ export default function HomePage() {
                   href={project.link}
                   key={project.name}
                   className="project-card"
+                  target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <img
                     src={project.image}
                     alt={`${project.name} preview`}
                     className="project-image"
                   />
-
                   <h3>{project.name}</h3>
                   <p>{project.description}</p>
                 </a>
