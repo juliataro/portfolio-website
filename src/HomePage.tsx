@@ -16,38 +16,38 @@ const webProjects = [
   {
     name: "Almar Puit OÜ – Admin System",
     description: "Custom info system for timber business workflows",
-    link: "https://juliataro.eu/projects/almarpuit",
+    link: "/projects/almarpuit",
     image: img1,
   },
   {
     name: "Tobroxwood.ee",
     description: "Corporate website for timber product sales",
-    link: "https://juliataro.eu/projects/tobroxwood",
+    link: "/projects/tobroxwood",
     image: img6,
   },
   {
     name: "Spavarska.ee",
     description:
       "Estonian Spa center website providing detailed information about their services",
-    link: "https://juliataro.eu/projects/spavarska",
+    link: "/projects/spavarska",
     image: img4,
   },
   {
     name: "BodyDetox.ee",
     description: "Wellness platform offering detox programs and services",
-    link: "https://juliataro.eu/projects/bodydetox",
+    link: "/projects/bodydetox",
     image: img2,
   },
   {
     name: "Peipsikaup.ee",
     description: "Online shop selling local products",
-    link: "https://juliataro.eu/projects/peipsikaup",
+    link: "/projects/peipsikaup",
     image: img3,
   },
   {
     name: "Nagemisteraapia.ee",
     description: "Eye therapy website with mobile-friendly UX design",
-    link: "https://juliataro.eu/projects/nagemisteraapia",
+    link: "/projects/nagemisteraapia",
     image: img5,
   },
 ];
@@ -165,7 +165,6 @@ export default function HomePage() {
             <div className="grid">
               {designProjects.map((project) => (
                 <a
-                  target="_blank"
                   href={project.link}
                   key={project.name}
                   className="project-card"
