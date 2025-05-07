@@ -78,11 +78,8 @@ export default function HomePage() {
       <main>
         <div className="intro">
           <header>
-            <h1>Ciao, I'm Julia.</h1>
-            <p>
-              A Junior Full-Stack Developer | UX/UI Designer | Aspiring Data
-              Analyst from Estonia
-            </p>
+            <h1>Hello, I'm Julia.</h1>
+            <p>Full-Stack Developer | UX/UI Designer | Aspiring Data Analyst</p>
           </header>
 
           <section className="about-skills">
