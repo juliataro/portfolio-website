@@ -62,7 +62,7 @@ const designProjects = [
   },
   {
     image: img8,
-    name: "Others Print Design Projects",
+    name: "Other Print Design Projects",
     description:
       "Some print design projects over the different years with different clients",
     link: "https://www.behance.net/juliataro",

@@ -87,7 +87,14 @@ const PeipsikaupProject: React.FC = () => {
               </Box>
 
               {/* ➕ Extra Images   */}
-              <Box sx={{ display: "flex", flexDirection: "column", gap: 2 }}>
+              <Box
+                sx={{
+                  display: "flex",
+                  flexDirection: "column",
+                  gap: 2,
+                  marginTop: "2rem",
+                }}
+              >
                 <CardMedia
                   component="img"
                   image={imgDetail1}
