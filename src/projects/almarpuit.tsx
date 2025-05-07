@@ -63,12 +63,12 @@ const AlmarpuitProject: React.FC = () => {
                   Software Documentation:
                 </Typography>
                 <a
-                  href="bit.ly/4fzukMr"
+                  href="https://bit.ly/4fzukMr"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="external-link"
                 >
-                  bit.ly/4fzukMr
+                  https://bit.ly/4fzukMr
                 </a>
 
                 <Typography

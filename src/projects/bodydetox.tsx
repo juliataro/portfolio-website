@@ -79,12 +79,12 @@ const bodydetoxProject: React.FC = () => {
                   Software Documentation(in estonian):
                 </Typography>
                 <a
-                  href="bit.ly/3P2qtgu"
+                  href="https://bit.ly/3P2qtgu"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="external-link"
                 >
-                  bit.ly/3P2qtgu
+                  https://bit.ly/3P2qtgu
                 </a>
 
                 <Typography
