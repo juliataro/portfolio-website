@@ -87,17 +87,16 @@ export default function HomePage() {
               <h2>ABOUT</h2>
               <p>
                 <ReadMoreArea buttonStyle={buttonStyle} lettersLimit={330}>
-                  I worked for about 15 years as a graphic designer, helping
-                  customers make their visual identity attractive — both as a
-                  team member and freelancer. This sparked my interest in
-                  marketing principles, business processes, and management. One
-                  of my favorite books, Ogilvy on Advertising, was eye-opening —
-                  it showed how great ideas live at the intersection of
-                  creativity and psychology, a topic I've been passionate about
-                  since my teens. Naturally, I transitioned into web design and
-                  development — a place where creativity and business ideas come
-                  together. My recent project is creating administrational info
-                  system for Almar Puit OÜ
+                  I worked for about 15 years as a Graphic Designer both as a
+                  team member and freelancer participating in marketing
+                  campaigns, competitions, volunteering and making free social
+                  ads. For refreshing my career I transitioned into Webdesign
+                  and Web Development — a place where creativity and my
+                  business/marketing interests are crossing together. In
+                  programming school my favorite module was Data Bases, so I
+                  took Data Analytical course to understand more business needs.
+                  Now I am working on the project of administrational info
+                  system for Almar Puit OÜ.
                 </ReadMoreArea>
               </p>
             </div>
