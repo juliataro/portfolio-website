@@ -92,11 +92,9 @@ export default function HomePage() {
                   campaigns, competitions, volunteering and making free social
                   ads. For refreshing my career I transitioned into Webdesign
                   and Web Development — a place where creativity and my
-                  business/marketing interests are crossing together. In
-                  programming school my favorite module was Data Bases, so I
-                  took Data Analytical course to understand more business needs.
-                  Now I am working on the project of administrational info
-                  system for Almar Puit OÜ.
+                  business/marketing interests are crossing together. Now I am
+                  working on the project of administrational info system for
+                  Almar Puit OÜ.
                 </ReadMoreArea>
               </p>
             </div>
