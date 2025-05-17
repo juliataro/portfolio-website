@@ -88,10 +88,10 @@ export default function HomePage() {
               <p>
                 <ReadMoreArea buttonStyle={buttonStyle} lettersLimit={330}>
                   I worked for about 15 years as a Graphic Designer both as a
-                  team member and freelancer participating in marketing
+                  team member and freelancer, participated in marketing
                   campaigns, competitions, volunteering and making free social
                   ads. For refreshing my career I transitioned into Webdesign
-                  and Web Development — a place where creativity and my
+                  and Web Development, here I could combine creativity, my
                   business/marketing interests are crossing together. Now I am
                   working on the project of administrational info system for
                   Almar Puit OÜ.
@@ -102,14 +102,9 @@ export default function HomePage() {
               <h2>SKILLS</h2>
               <ul>
                 <li>
-                  <strong className="skill-name">
-                    Data Analytics (taking course 12/24 - 08/25):
-                  </strong>{" "}
-                  SQL, Excel, Python (studying)
-                </li>
-                <li>
                   <strong className="skill-name">Web Development:</strong>{" "}
-                  React, JS, TS, WP, ExpressJS, SQL, NoSQL, Angular (studying)
+                  React, JS, TS, ExpressJS, Angular(studying), RestAPI, Git,
+                  SQL, NoSQL. CMS WordPress.
                 </li>
                 <li>
                   <strong className="skill-name">UX/UI Design:</strong> Figma,
@@ -117,8 +112,8 @@ export default function HomePage() {
                 </li>
                 <li>
                   <strong className="skill-name">Project Management:</strong>{" "}
-                  Basic experience with Agile, task coordination, and delivery
-                  tracking
+                  Basic experience with Agile, task coordination, delivery
+                  tracking. Jira, Kanban
                 </li>
               </ul>
             </div>

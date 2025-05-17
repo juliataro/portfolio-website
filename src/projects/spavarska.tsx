@@ -85,7 +85,7 @@ const AlmarpuitProject: React.FC = () => {
                   rel="noopener noreferrer"
                   className="external-link"
                 >
-                  spavarska.ee
+                  https://spavarska.ee
                 </a>
 
                 <Typography variant="body1" sx={{ mt: 2, fontWeight: "bold" }}>
