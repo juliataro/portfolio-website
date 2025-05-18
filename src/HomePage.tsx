@@ -89,12 +89,14 @@ export default function HomePage() {
                 <ReadMoreArea buttonStyle={buttonStyle} lettersLimit={330}>
                   I worked for about 15 years as a Graphic Designer both as a
                   team member and freelancer, participated in marketing
-                  campaigns, competitions, volunteering and making free social
-                  ads. For refreshing my career I transitioned into Webdesign
-                  and Web Development, here I could combine creativity, my
-                  business/marketing interests are crossing together. Now I am
-                  working on the project of administrational info system for
-                  Almar Puit OÜ.
+                  campaigns, competitions, helped making social advertisements
+                  for free. For refreshing my career I transitioned into Web
+                  Design and Development, here is art, code and my
+                  business/marketing interests are crossing together. After
+                  finishing school I decided to take a break for my family needs
+                  but was continuing with small projects. Now I am working on
+                  creating of administrational info system for my friends firm
+                  Almar Puit OÜ for a practice.
                 </ReadMoreArea>
               </p>
             </div>
@@ -107,8 +109,9 @@ export default function HomePage() {
                   SQL, NoSQL. CMS WordPress.
                 </li>
                 <li>
-                  <strong className="skill-name">UX/UI Design:</strong> Figma,
-                  Photoshop, Illustrator
+                  <strong className="skill-name">Web Design:</strong> Figma,
+                  Photoshop, Illustrator. UX/UI. Image editing, color and
+                  composition.
                 </li>
                 <li>
                   <strong className="skill-name">Project Management:</strong>{" "}
