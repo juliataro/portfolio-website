@@ -75,7 +75,7 @@ const TobroxwoodProject: React.FC = () => {
                   Technologies used:
                 </Typography>
                 <Typography variant="body2" color="text.secondary">
-                  WordPress WooCommerce, Elementor PB, Custom CSS
+                  WordPress WooCommerce, Elementor PB, Custom CSS, UptimeRobot
                 </Typography>
                 <Typography
                   variant="body1"

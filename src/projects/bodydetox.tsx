@@ -107,7 +107,8 @@ const bodydetoxProject: React.FC = () => {
                   Technologies:
                 </Typography>
                 <Typography variant="body2" color="text.secondary">
-                  React, NodeJS/Express, MySQL, GitHub, Hetzner Cloud Server
+                  React, NodeJS/Express, MySQL, GitHub, Hetzner Cloud Server,
+                  UptimeRobot
                 </Typography>
                 <Typography
                   variant="body1"

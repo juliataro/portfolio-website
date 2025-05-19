@@ -74,7 +74,8 @@ const PeipsikaupProject: React.FC = () => {
                   Technologies planned to be used:
                 </Typography>
                 <Typography variant="body2" color="text.secondary">
-                  WordPress/WooCommerce Template Astra theme, Elementor PB
+                  WordPress/WooCommerce Template Astra theme, Elementor PB,
+                  UptimeRobot
                 </Typography>
 
                 <Typography variant="body1" sx={{ mt: 2, fontWeight: "bold" }}>
