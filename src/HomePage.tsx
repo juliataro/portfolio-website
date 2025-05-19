@@ -105,8 +105,8 @@ export default function HomePage() {
               <ul>
                 <li>
                   <strong className="skill-name">Web Development:</strong>{" "}
-                  React, JS, TS, ExpressJS, Angular(studying), RestAPI, Git,
-                  SQL, NoSQL. CMS WordPress.
+                  React, JS, TS, ExpressJS, Angular(studying), RestAPI, GitHub,
+                  SQL, NoSQL. CMS WordPress, GitHub Desktop.
                 </li>
                 <li>
                   <strong className="skill-name">Web Design:</strong> Figma,
