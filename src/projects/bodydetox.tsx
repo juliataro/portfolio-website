@@ -53,7 +53,8 @@ const bodydetoxProject: React.FC = () => {
                 The application allows users to select treatments in advance
                 based on their symptoms and conditions before visiting the
                 clinic, and provides the option to send the selected treatments
-                to their email.
+                to their email. The application was developed for the defence of
+                Junior full-stack developer diploma in Tartu Vocational College.
               </Typography>
 
               {/* ➕ Additional Info Section */}

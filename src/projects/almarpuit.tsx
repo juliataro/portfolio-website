@@ -51,7 +51,11 @@ const AlmarpuitProject: React.FC = () => {
               <Typography variant="body1" color="text.secondary" sx={{ mb: 2 }}>
                 Custom information system for timber business workflows.
                 Designed for internal use with clean layout and mobile
-                optimization. Under development.
+                optimization. In addition to standard administrative functions,
+                the application includes a motivational feature — it allows an
+                employee to enter data about completed work and see their
+                progress through a growing monthly salary total. Application is
+                under development.
               </Typography>
 
               {/* ➕ Additional Info Section */}

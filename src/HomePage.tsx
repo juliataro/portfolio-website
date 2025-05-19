@@ -15,7 +15,7 @@ import ReadMoreArea from "@foxeian/react-read-more";
 
 const webProjects = [
   {
-    name: "Almar Puit OÜ – Admin System",
+    name: "Almar Puit OÜ",
     description: "Custom info system for timber business workflows",
     link: "/projects/almarpuit",
     image: img1,
@@ -90,13 +90,14 @@ export default function HomePage() {
                   I worked for about 15 years as a Graphic Designer both as a
                   team member and freelancer, participated in marketing
                   campaigns, competitions, helped making social advertisements
-                  for free. For refreshing my career I transitioned into Web
-                  Design and Development, here is art, code and my
-                  business/marketing interests are crossing together. After
-                  finishing school I decided to take a break for my family needs
-                  but was continuing with small projects. Now I am working on
-                  creating of administrational info system for my friends firm
-                  Almar Puit OÜ for a practice.
+                  as a volunteer. <br />
+                  For refreshing my career I transitioned into Web Design and
+                  Development, here is art, code and my business/marketing
+                  interests are crossing together. After finishing school I
+                  decided to take a break for my family needs but was continuing
+                  with small projects. Now I am working on creating of
+                  administrational info system for my friends firm Almar Puit OÜ
+                  as a practice.
                 </ReadMoreArea>
               </p>
             </div>
