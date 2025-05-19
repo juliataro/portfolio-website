@@ -49,8 +49,7 @@ const TobroxwoodProject: React.FC = () => {
               <Typography variant="body1" color="text.secondary" sx={{ mb: 2 }}>
                 Firm website for timber product sales. Built to showcase product
                 categories with clean visual presentation and ease of
-                navigation. Website is done whithout sсetch, as was ordered to
-                be done
+                navigation.
               </Typography>
 
               <Box>
@@ -78,6 +77,15 @@ const TobroxwoodProject: React.FC = () => {
                 <Typography variant="body2" color="text.secondary">
                   WordPress, Elementor, Custom CSS, SEO tools
                 </Typography>
+                <Typography
+                  variant="body1"
+                  sx={{ fontWeight: "bold", marginTop: "1em" }}
+                >
+                  Support:
+                </Typography>
+                <Typography variant="body2" color="text.secondary">
+                  Yes
+                </Typography>
 
                 <Typography
                   variant="body1"
@@ -86,11 +94,17 @@ const TobroxwoodProject: React.FC = () => {
                   My duties in the project:
                 </Typography>
                 <Typography variant="body2" color="text.secondary">
-                  Turnkey website. Work without a sketch was more difficult than
-                  I assumed - in the course of the work had to quickly solve the
-                  overall composition, customise the theme Astra. We also
-                  purchased hosting and domain. I handed over the project and
-                  created a tutorial video.
+                  My role in this project was PM and developer. This is turnkey
+                  website that is made without sketch, as was ordered to be done
+                  ASAP and had to be ready yesterday. <br />
+                  Astra theme had been chosen in case for need to use
+                  Woocomerce, and such as secured login page, backup,
+                  Uptimerobot and CAPTCHA.
+                  <br />
+                  As the project had to be done quickly I had no time to find
+                  the copywriter, so my role was to be the Prompt Engineer to
+                  create texts and had arranged with an Estonian teacher I know
+                  to check them out.
                 </Typography>
               </Box>
             </CardContent>

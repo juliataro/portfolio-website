@@ -95,13 +95,23 @@ const AlmarpuitProject: React.FC = () => {
                   WordPress / Astra Woocommerce , Salbos booking system,
                   plugins, Figma
                 </Typography>
+                <Typography
+                  variant="body1"
+                  sx={{ fontWeight: "bold", marginTop: "1em" }}
+                >
+                  Support:
+                </Typography>
+                <Typography variant="body2" color="text.secondary">
+                  2022 - 12.2024
+                </Typography>
 
                 <Typography variant="body1" sx={{ mt: 2, fontWeight: "bold" }}>
                   My duties in the project:
                 </Typography>
                 <Typography variant="body2" color="text.secondary">
-                  Redesign layout, images editing and size/weight optimization,
-                  creation, css customisation.
+                  Developer. It was large project with redesign of existing
+                  site, images editing and size/weight optimization, creation,
+                  css customization.
                 </Typography>
               </Box>
 

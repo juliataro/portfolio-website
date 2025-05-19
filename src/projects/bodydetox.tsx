@@ -53,8 +53,7 @@ const bodydetoxProject: React.FC = () => {
                 The application allows users to select treatments in advance
                 based on their symptoms and conditions before visiting the
                 clinic, and provides the option to send the selected treatments
-                to their email. The application was developed for the defence of
-                Junior full-stack developer diploma in Tartu Vocational College.
+                to their email.
               </Typography>
 
               {/* ➕ Additional Info Section */}
@@ -108,16 +107,29 @@ const bodydetoxProject: React.FC = () => {
                   Technologies:
                 </Typography>
                 <Typography variant="body2" color="text.secondary">
-                  React, NodeJS/Express, MySQL, GitHub, Hetzner
+                  React, NodeJS/Express, MySQL, GitHub, Hetzner Cloud Server
+                </Typography>
+                <Typography
+                  variant="body1"
+                  sx={{ fontWeight: "bold", marginTop: "1em" }}
+                >
+                  Support:
+                </Typography>
+                <Typography variant="body2" color="text.secondary">
+                  Yes
                 </Typography>
 
                 <Typography variant="body1" sx={{ mt: 2, fontWeight: "bold" }}>
                   My duties in the project:
                 </Typography>
                 <Typography variant="body2" color="text.secondary">
-                  Planning, client communication, system design and database
-                  schema modeling, front-end & back-end development, testing and
-                  deployment, project handover and training.
+                  Project management and development. Planning, client
+                  communication, system design and database schema modeling,
+                  front-end & back-end development, testing and deployment,
+                  project handover and training. <br />
+                  The application was developed for the defense of Junior
+                  full-stack developer diploma in Tartu Vocational College
+                  entirely by me.
                 </Typography>
               </Box>
 

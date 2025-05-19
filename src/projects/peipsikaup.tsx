@@ -81,8 +81,18 @@ const PeipsikaupProject: React.FC = () => {
                   My duties in the project:
                 </Typography>
                 <Typography variant="body2" color="text.secondary">
-                  Planning, client communication, image editing, product data
-                  entry, testing, project handover and training.
+                  Partly Project Manager, Developer. Planning, client
+                  communication, control of copywriters workflow, image editing,
+                  product data entry, testing, project handover and training.
+                </Typography>
+                <Typography
+                  variant="body1"
+                  sx={{ fontWeight: "bold", marginTop: "1em" }}
+                >
+                  Support:
+                </Typography>
+                <Typography variant="body2" color="text.secondary">
+                  Yes
                 </Typography>
               </Box>
 

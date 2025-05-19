@@ -90,16 +90,26 @@ const NagemisteraapiaProject: React.FC = () => {
                   Technologies planned to be used:
                 </Typography>
                 <Typography variant="body2" color="text.secondary">
-                  AngularJS, SpringBoot, PostgreSQL, BitBucket
+                  WordPress, Figma
+                </Typography>
+                <Typography
+                  variant="body1"
+                  sx={{ fontWeight: "bold", marginTop: "1em" }}
+                >
+                  Support:
+                </Typography>
+                <Typography variant="body2" color="text.secondary">
+                  No
                 </Typography>
 
                 <Typography variant="body1" sx={{ mt: 2, fontWeight: "bold" }}>
                   My duties in the project:
                 </Typography>
                 <Typography variant="body2" color="text.secondary">
-                  Planning, client communication, system design and database
-                  schema modeling, front-end & back-end development, testing and
-                  deployment, project handover and training.
+                  Project management and development. Planning, client
+                  communication, system design and database schema modeling,
+                  front-end & back-end development, testing and deployment,
+                  project handover and training.
                 </Typography>
               </Box>
 
