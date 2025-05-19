@@ -92,8 +92,7 @@ const AlmarpuitProject: React.FC = () => {
                   Technologies:
                 </Typography>
                 <Typography variant="body2" color="text.secondary">
-                  WordPress / Astra Woocommerce , Salbos booking system,
-                  plugins, Figma
+                  WordPress / Astra WooCommerce, Elementor PB, Figma
                 </Typography>
                 <Typography
                   variant="body1"

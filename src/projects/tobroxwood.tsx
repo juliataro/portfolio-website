@@ -75,7 +75,7 @@ const TobroxwoodProject: React.FC = () => {
                   Technologies used:
                 </Typography>
                 <Typography variant="body2" color="text.secondary">
-                  WordPress, Elementor, Custom CSS, SEO tools
+                  WordPress WooCommerce, Elementor PB, Custom CSS
                 </Typography>
                 <Typography
                   variant="body1"
@@ -94,11 +94,11 @@ const TobroxwoodProject: React.FC = () => {
                   My duties in the project:
                 </Typography>
                 <Typography variant="body2" color="text.secondary">
-                  My role in this project was PM and developer. This is turnkey
-                  website that is made without sketch, as was ordered to be done
-                  ASAP and had to be ready yesterday. <br />
+                  Project manager and developer. This is turnkey website that is
+                  made without sketch, as was ordered to be done ASAP and had to
+                  be ready yesterday. <br />
                   Astra theme had been chosen in case for need to use
-                  Woocomerce, and such as secured login page, backup,
+                  WooComerce, and such as secured login page, backup,
                   Uptimerobot and CAPTCHA.
                   <br />
                   As the project had to be done quickly I had no time to find
