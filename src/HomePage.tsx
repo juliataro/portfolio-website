@@ -88,16 +88,15 @@ export default function HomePage() {
               <p>
                 <ReadMoreArea buttonStyle={buttonStyle} lettersLimit={330}>
                   I worked for about 15 years as a Graphic Designer both as a
-                  team member and freelancer, participated in marketing
-                  campaigns, competitions, helped making social advertisements
-                  as a volunteer. <br />
+                  team member and freelancer, participate in marketing
+                  campaigns, competitions and helped make public service
+                  announcements as a volunteer. <br />
                   For refreshing my career I transitioned into Web Design and
-                  Development, here is art, code and my business/marketing
-                  interests are crossing together. After finishing school I
-                  decided to take a break for my family needs but was continuing
-                  with small projects. Now I am working on creating of
-                  administrational info system for my friends firm Almar Puit OÜ
-                  as a practice.
+                  Development. After finishing school where I learned
+                  programming I decided to take a break for my family needs but
+                  was continuing with small projects. I tried both roles -
+                  Project Manager and Developer. Now I am working on
+                  administrational info system for timber firm Almar Puit OÜ.
                 </ReadMoreArea>
               </p>
             </div>

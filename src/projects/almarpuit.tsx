@@ -83,7 +83,7 @@ const AlmarpuitProject: React.FC = () => {
                 </Typography>
 
                 <a
-                  href="https://bit.ly/4jHU2QZ"
+                  href="https://www.figma.com/proto/7r9WAcGyFEjHgjBXF6yOhP/Almar-Puit?node-id=44-644&t=BeBAlorwEJjSqZKi-1"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="external-link"
