@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Box, Card, CardMedia } from "@mui/material";
 import Nav from "../components/navigation/Nav";
-import imgMain from "../assets/images/Julia_Taro_CV.jpg";
+import imgMain from "../assets/images/JuliaTaro_CV.jpg";
 //import imgDetail1 from "../assets/images/almarpuit/detail1.jpg"; // Replace with real file
 //import imgDetail2 from "../assets/images/almarpuit/detail2.jpg"; // Replace with real file
 import "./styles/index.css";
