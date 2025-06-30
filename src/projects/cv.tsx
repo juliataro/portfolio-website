@@ -1,4 +1,5 @@
 import React from "react";
+
 import { Container, Box, Card, CardMedia } from "@mui/material";
 import Nav from "../components/navigation/Nav";
 import imgMain from "../assets/images/JuliaTaro_CV.jpg";
