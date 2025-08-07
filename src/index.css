@@ -67,10 +67,7 @@ header {
   text-align: center;
   margin-top: 1rem;
   font-family: Cal Sans, sans-serif;
-  margin-left: 20%;
-  margin-right: 20%;
   border-radius: 12px;
-  z-index: 2000;
 }
 header h1 {
   font-size: 4rem;
