@@ -4,14 +4,25 @@
   box-sizing: border-box;
 }
 html {
-  scroll-behavior: smooth;
+  scroll-behavior: auto; /* disable native smooth scroll */
+  overflow: hidden; /* let Lenis handle scrolling */
 }
 
+* {
+  border: 1px solid red;
+}
 body {
   background-color: #f5eff2;
   color: #170c45;
   font-family: "Inter", sans-serif;
   line-height: 1.6;
+  scroll-behavior: auto; /* disable native smooth scroll */
+  overflow: hidden !important;
+}
+
+a {
+  text-decoration: none;
+  color: #0a0f2c;
 }
 
 .cta-red {

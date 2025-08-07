@@ -126,7 +126,7 @@ const Nav: React.FC = () => {
                     href={link.external ? link.path : undefined}
                     target={link.external ? "_blank" : undefined}
                     rel={link.external ? "noopener noreferrer" : undefined}
-                    sx={{ color: "white" }}
+                    sx={{ color: "#0a0f2c" }}
                   >
                     {link.text}
                   </Button>
