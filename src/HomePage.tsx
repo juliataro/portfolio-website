@@ -76,14 +76,11 @@ export default function HomePage() {
     <>
       <Nav />
       <main>
-        <div className="intro">
-          <div className="intro-width">
+        <section className="intro-section row-full">
+          <div className="intro">
             <header>
               <h1>Get Your Website Done by a Full‑Service Expert</h1>
-              <p>
-                From design and development to SEO and launch — one expert
-                handles it all.
-              </p>
+              <p>De</p>
               <div>
                 <button className="cta-red">My Works</button>
                 <button className="cta-white">
@@ -132,7 +129,7 @@ export default function HomePage() {
               </div>
             </section>
           </div>
-        </div>
+        </section>
 
         <section className="web-projects-section row-full">
           <div className="section-inner">

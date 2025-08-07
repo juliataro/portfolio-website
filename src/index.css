@@ -45,20 +45,12 @@ body {
 }
 
 main {
-  max-width: 100vw;
+  max-width: 1000px !important;
   margin-inline: auto;
 }
 
 .intro {
   background-color: #eae1e5;
-  max-width: 100vw;
-  padding-top: 3rem;
-  padding-left: 20%;
-  padding-right: 20%;
-}
-
-.intro-width {
-  max-width: 60%;
 }
 
 header {
@@ -134,10 +126,10 @@ section p {
 /* Web Projects */
 
 .web-projects-section,
-.design-print-section {
+.design-print-section,
+.intro-section {
   width: 100vw;
   margin-left: calc(-50vw + 50%);
-  background-color: #555;
   padding: 3rem 0;
 }
 
