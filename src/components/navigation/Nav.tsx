@@ -78,8 +78,11 @@ const Nav: React.FC = () => {
 
   return (
     <>
-      <AppBar position="static" sx={{ backgroundColor: "#f5eff2" }}>
-        <Toolbar sx={{ maxWidth: "1070px", width: "100%", mx: "auto" }}>
+      <AppBar
+        position="static"
+        sx={{ backgroundColor: "#ffffff", color: "#170c45" }}
+      >
+        <Toolbar sx={{ maxWidth: "1070px", width: "60%", mx: "auto" }}>
           {isMobile && (
             <IconButton
               color="inherit"

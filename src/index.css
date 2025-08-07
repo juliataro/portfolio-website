@@ -23,6 +23,7 @@ body {
   background: #ef2b70;
   border: 2px solid #ef2b70;
   box-shadow: 0 15px 40px #ef2b7080;
+  color: white;
 }
 .cta-red:hover {
   background: #170c45;
@@ -57,10 +58,10 @@ header {
 }
 header h1 {
   font-size: 4rem;
-  font-weight: 600;
+  font-weight: 400;
   margin-bottom: 0.5rem;
   letter-spacing: 0.5px;
-  line-height: 4rem;
+  line-height: 5rem;
 }
 header p {
   font-size: 1.1rem;
