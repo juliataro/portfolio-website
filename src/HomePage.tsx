@@ -77,58 +77,61 @@ export default function HomePage() {
       <Nav />
       <main>
         <div className="intro">
-          <header>
-            <h1>Get Your Website Done by a Full‑Service Expert</h1>
-            <p>
-              From design and development to SEO and launch — one expert handles
-              it all.
-            </p>
-
-            <button className="cta-red">My Works</button>
-            <button className="cta-white">
-              Get Free Advice On Your Website
-            </button>
-          </header>
-
-          <section className="about-skills">
-            <div className="about-column">
-              <h2>ABOUT</h2>
+          <div className="intro-width">
+            <header>
+              <h1>Get Your Website Done by a Full‑Service Expert</h1>
               <p>
-                <ReadMoreArea buttonStyle={buttonStyle} lettersLimit={330}>
-                  I worked for about 15 years as a Graphic Designer both as a
-                  team member and freelancer, participate in marketing
-                  campaigns, competitions and helped make public service
-                  announcements as a volunteer. <br />
-                  For refreshing my career I transitioned into Web Design and
-                  Development. After finishing school where I learned
-                  programming I decided to take a break for my family needs but
-                  was continuing with small projects. I tried both roles -
-                  Project Manager and Developer. Now I am working on
-                  administrational info system for timber firm Almar Puit OÜ.
-                </ReadMoreArea>
+                From design and development to SEO and launch — one expert
+                handles it all.
               </p>
-            </div>
-            <div className="skills-column">
-              <h2>SKILLS</h2>
-              <ul>
-                <li>
-                  <strong className="skill-name">Web Development:</strong> JS,
-                  React, Angular(studying), TS, ExpressJS, Java, PHP, RestAPI,
-                  GitHub, SQL, NoSQL. CMS WordPress.
-                </li>
-                <li>
-                  <strong className="skill-name">Web Design:</strong> Figma,
-                  Photoshop, Illustrator. UX/UI. Image editing, color and
-                  composition.
-                </li>
-                <li>
-                  <strong className="skill-name">Project Management:</strong>{" "}
-                  Basic experience with Agile, task coordination, delivery
-                  tracking. Jira, Kanban
-                </li>
-              </ul>
-            </div>
-          </section>
+              <div>
+                <button className="cta-red">My Works</button>
+                <button className="cta-white">
+                  Get Free Advice On Your Website
+                </button>
+              </div>
+            </header>
+
+            <section className="about-skills">
+              <div className="about-column">
+                <h2>ABOUT</h2>
+                <p>
+                  <ReadMoreArea buttonStyle={buttonStyle} lettersLimit={330}>
+                    I worked for about 15 years as a Graphic Designer both as a
+                    team member and freelancer, participate in marketing
+                    campaigns, competitions and helped make public service
+                    announcements as a volunteer. <br />
+                    For refreshing my career I transitioned into Web Design and
+                    Development. After finishing school where I learned
+                    programming I decided to take a break for my family needs
+                    but was continuing with small projects. I tried both roles -
+                    Project Manager and Developer. Now I am working on
+                    administrational info system for timber firm Almar Puit OÜ.
+                  </ReadMoreArea>
+                </p>
+              </div>
+              <div className="skills-column">
+                <h2>SKILLS</h2>
+                <ul>
+                  <li>
+                    <strong className="skill-name">Web Development:</strong> JS,
+                    React, Angular(studying), TS, ExpressJS, Java, PHP, RestAPI,
+                    GitHub, SQL, NoSQL. CMS WordPress.
+                  </li>
+                  <li>
+                    <strong className="skill-name">Web Design:</strong> Figma,
+                    Photoshop, Illustrator. UX/UI. Image editing, color and
+                    composition.
+                  </li>
+                  <li>
+                    <strong className="skill-name">Project Management:</strong>{" "}
+                    Basic experience with Agile, task coordination, delivery
+                    tracking. Jira, Kanban
+                  </li>
+                </ul>
+              </div>
+            </section>
+          </div>
         </div>
 
         <section className="web-projects-section row-full">
