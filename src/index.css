@@ -3,12 +3,37 @@
   padding: 0;
   box-sizing: border-box;
 }
+html {
+  scroll-behavior: smooth;
+}
 
 body {
   background-color: #f5eff2;
   color: #170c45;
-  font-family: "Roboto Mono", monospace;
+  font-family: "Inter", sans-serif;
   line-height: 1.6;
+}
+
+.cta-red {
+  border-radius: 12px;
+  height: 64px;
+  padding-left: 32px;
+  padding-right: 26px;
+  font-size: 16px;
+  background: #ef2b70;
+  box-shadow: 0 15px 40px #ef2b7080;
+}
+.cta-red:hover {
+  background: #170c45;
+}
+.cta-white {
+  border-radius: 12px;
+  height: 64px;
+  padding-left: 32px;
+  padding-right: 26px;
+  font-size: 16px;
+  background: #ffffff;
+  box-shadow: 0 13.38px 35.679px #0f082b1a;
 }
 
 main {
@@ -17,13 +42,14 @@ main {
 }
 
 .intro {
+  background-color: #eae1e5;
   max-width: 100vw;
 }
 
 header {
   margin-bottom: 5rem;
-  text-align: left;
-  font-family: Inter, sans-serif;
+  text-align: center;
+  font-family: "Cal Sans", sans-serif;
 }
 header h1 {
   font-size: 3rem;
@@ -34,12 +60,12 @@ header h1 {
 header p {
   font-size: 1.1rem;
   color: #787a81;
-  font-family: "Roboto Mono", monospace;
+  font-family: "Inter", sans-serif;
 }
 
 li,
 .project-card {
-  font-family: "Roboto Mono", monospace;
+  font-family: "Inter", sans-serif;
 }
 
 .skill-name {
@@ -69,14 +95,14 @@ li,
 }
 .about-column p,
 .skills-column ul {
-  font-family: "Roboto Mono", monospace;
+  font-family: "Inter", sans-serif;
   font-size: 1rem;
   line-height: 1.9;
 }
 
 section {
   margin-bottom: 4rem;
-  font-family: "Poppins", sans-serif;
+  font-family: "Cal Sans", sans-serif;
 }
 section h2 {
   font-size: 2.5rem;
@@ -85,7 +111,7 @@ section h2 {
   color: #0a0f2c;
 }
 section p {
-  font-family: "Poppins", sans-serif !important;
+  font-family: "Cal Sans", sans-serif !important;
 }
 
 /* Web Projects */

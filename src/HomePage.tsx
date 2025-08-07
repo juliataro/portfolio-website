@@ -78,8 +78,14 @@ export default function HomePage() {
       <main>
         <div className="intro">
           <header>
-            <h1>Hello, I'm Julia.</h1>
-            <p>Full-Stack Developer | UX/UI Designer | Aspiring Data Analyst</p>
+            <h1>Get Your Website Done by a Full‑Service Expert</h1>
+            <p>
+              From design and development to SEO and launch — one expert handles
+              it all.
+            </p>
+
+            <button>My Works</button>
+            <button>Get Free Advice On Your Website</button>
           </header>
 
           <section className="about-skills">
