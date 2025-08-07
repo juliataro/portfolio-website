@@ -25,7 +25,7 @@ a {
 }
 
 .cta-section {
-  margin-bottom: 6rem;
+  margin-bottom: 6rem !important;
 }
 
 .cta-red {
