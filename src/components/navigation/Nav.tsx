@@ -79,6 +79,7 @@ const Nav: React.FC = () => {
   return (
     <>
       <AppBar
+        className="nav-bar"
         position="static"
         sx={{
           backgroundColor: "#ffffff",

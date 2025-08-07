@@ -8,9 +8,10 @@
   border-radius: 12px;
 }
 
-.MuiAppBar-root {
-  margin-left: 6rem;
+.nav-bar {
+  margin-left: 6rem !important;
 }
+
 .nav-content {
   max-width: 960px; /* Match the width of your <main> */
   margin: 0 auto;
