@@ -77,7 +77,7 @@ export default function HomePage() {
       <Nav />
       <main>
         <section className="intro-section row-full">
-          <div className="intro">
+          <div className="section-inner">
             <header>
               <h1>Get Your Website Done by a Full‑Service Expert</h1>
               <p>De</p>
