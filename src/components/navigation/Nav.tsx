@@ -90,14 +90,14 @@ const Nav: React.FC = () => {
             </IconButton>
           )}
           {!isMobile && (
-            <Box sx={{ display: "flex", gap: 3, color: "white" }}>
+            <Box sx={{ display: "flex", gap: 3, color: "#0a0f2c" }}>
               {navLinks.map((link, index) =>
                 link.submenu ? (
                   <Box key={index}>
                     <Button
                       onClick={handleMenuOpen}
                       endIcon={<ArrowDropDownIcon />}
-                      sx={{ color: "white" }}
+                      sx={{ color: "#0a0f2c" }}
                     >
                       {link.text}
                     </Button>

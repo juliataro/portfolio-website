@@ -20,8 +20,8 @@ body {
   padding-left: 32px;
   padding-right: 26px;
   font-size: 16px;
-  background: #ef2b70;
-  border: 2px solid #ef2b70;
+  background: #cf4374;
+  border: 2px solid #cf4374;
   box-shadow: 0 15px 40px #ef2b7080;
   color: white;
   font-weight: 400;
@@ -79,10 +79,10 @@ li,
 
 .skill-name {
   font-weight: 800;
-  color: #ef2b70;
+  color: #cf4374;
 }
 .web-dev {
-  color: #ef2b70;
+  color: #cf4374;
 }
 
 .about-skills {
@@ -185,7 +185,7 @@ section p {
 }
 
 .link {
-  color: #ef2b70;
+  color: #cf4374;
 }
 
 @media (min-width: 768px) {

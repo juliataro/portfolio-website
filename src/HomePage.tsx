@@ -80,11 +80,13 @@ export default function HomePage() {
           <div className="section-inner">
             <header>
               <h1>Get Your Website Done by a Full‑Service Expert</h1>
-              <p>De</p>
+              <p>Everything you need — no agency, no overwhelm.</p>
               <div>
-                <button className="cta-red">My Works</button>
+                <button className="cta-red">View My Works</button>
                 <button className="cta-white">
-                  Get Free Advice On Your Website
+                  <a href="mailto:info@adverbum.ee">
+                    Get Free Advice On Your Website
+                  </a>
                 </button>
               </div>
             </header>
