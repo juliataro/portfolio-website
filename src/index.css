@@ -8,9 +8,6 @@ html {
   overflow: hidden; /* let Lenis handle scrolling */
 }
 
-* {
-  border: 1px solid red;
-}
 body {
   background-color: #f5eff2;
   color: #170c45;
