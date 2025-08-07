@@ -1,7 +1,7 @@
 .navbar {
   width: 60%;
   background-color: #db4646;
-  box-shadow: 0 15px 40px #ef2b7080;
+  box-shadow: 0 40px 40px #ef2b7080;
   position: sticky;
   z-index: 1000;
   margin-top: 10px;
@@ -19,7 +19,7 @@
 }
 
 .main-nav {
-  background-color: #ffffff;
+  background-color: #2c2b2b;
   border-bottom: 1px solid #e5e7eb;
   padding: 1rem 2rem;
 }
@@ -36,7 +36,7 @@
 .logo a {
   font-size: 1.5rem;
   font-weight: 800;
-  color: #e4e6ee;
+  color: #0a0f2c;
   text-decoration: none;
 }
 
@@ -44,7 +44,7 @@
   list-style: none;
   display: flex;
   gap: 1.5rem;
-  color: #f8f9ff;
+  color: #0a0f2c;
 }
 
 .nav-links a {

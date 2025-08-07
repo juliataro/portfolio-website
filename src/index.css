@@ -53,12 +53,12 @@ main {
   background-color: #eae1e5;
   max-width: 100vw;
   padding-top: 3rem;
+  padding-left: 20%;
+  padding-right: 20%;
 }
 
 .intro-width {
   max-width: 60%;
-  padding-left: 20%;
-  padding-right: 20%;
 }
 
 header {
