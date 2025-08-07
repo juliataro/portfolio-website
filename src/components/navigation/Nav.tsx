@@ -86,7 +86,7 @@ const Nav: React.FC = () => {
               edge="start"
               onClick={toggleDrawer(true)}
             >
-              <MenuIcon />
+              <MenuIcon style={{ color: "#0a0f2c" }} />
             </IconButton>
           )}
           {!isMobile && (
