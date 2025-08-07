@@ -66,6 +66,7 @@ a {
 header {
   text-align: center;
   margin-top: 1rem;
+  margin-bottom: 2rem;
   font-family: Cal Sans, sans-serif;
   border-radius: 12px;
 }
