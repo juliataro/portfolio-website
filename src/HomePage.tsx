@@ -74,8 +74,8 @@ export default function HomePage() {
 
   return (
     <>
-      <Nav />
       <main>
+        <Nav />
         <section className="intro-section row-full">
           <div className="section-inner">
             <header>
