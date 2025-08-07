@@ -4,7 +4,6 @@
   box-sizing: border-box;
 }
 html {
-  scroll-behavior: auto; /* disable native smooth scroll */
   overflow: hidden; /* let Lenis handle scrolling */
 }
 
@@ -13,7 +12,7 @@ body {
   color: #170c45;
   font-family: "Inter", sans-serif;
   line-height: 1.6;
-  scroll-behavior: auto; /* disable native smooth scroll */
+
   overflow: hidden !important;
 }
 
