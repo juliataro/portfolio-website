@@ -1,11 +1,12 @@
 .navbar {
-  width: 100%;
+  width: 60%;
   background-color: #db4646;
   box-shadow: 0 15px 40px #ef2b7080;
   position: sticky;
-  top: 0;
+
   z-index: 1000;
   margin-top: 10px;
+  border-radius: 12px;
 }
 
 .nav-content {
@@ -44,6 +45,7 @@
   list-style: none;
   display: flex;
   gap: 1.5rem;
+  color: #0a0f2c;
 }
 
 .nav-links a {
