@@ -126,10 +126,12 @@ li,
 .web-projects-section,
 .design-print-section {
   background-color: #f5eff2;
+  padding-top: 6rem;
 }
 
 section {
-  margin-bottom: 4rem;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   font-family: "Cal Sans", sans-serif;
 }
 section h2 {
