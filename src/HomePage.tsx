@@ -84,8 +84,10 @@ export default function HomePage() {
               it all.
             </p>
 
-            <button>My Works</button>
-            <button>Get Free Advice On Your Website</button>
+            <button className="cta-red">My Works</button>
+            <button className="cta-white">
+              Get Free Advice On Your Website
+            </button>
           </header>
 
           <section className="about-skills">
