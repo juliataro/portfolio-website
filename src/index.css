@@ -61,12 +61,12 @@ a {
 .intro-section {
   background-color: #eae1e5;
   padding-top: 6rem;
-  margin-bottom: 6rem;
 }
 
 header {
   text-align: center;
   margin-top: 1rem;
+  margin-left: 6rem;
   margin-bottom: 2rem;
   font-family: Cal Sans, sans-serif;
   border-radius: 12px;
@@ -96,6 +96,7 @@ li,
 }
 .web-dev {
   color: #cf4374;
+  padding-top: 6rem;
 }
 
 .about-skills {
@@ -129,8 +130,7 @@ li,
 }
 
 section {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-bottom: 2rem;
   font-family: "Cal Sans", sans-serif;
 }
 section h2 {

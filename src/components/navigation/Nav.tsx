@@ -82,6 +82,7 @@ const Nav: React.FC = () => {
         position="static"
         sx={{
           backgroundColor: "#ffffff",
+          marginLeft: "20%",
         }}
       >
         <Toolbar sx={{ maxWidth: "1070px", width: "60%", mx: "auto" }}>
