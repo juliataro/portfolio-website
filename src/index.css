@@ -24,6 +24,8 @@ body {
   border: 2px solid #ef2b70;
   box-shadow: 0 15px 40px #ef2b7080;
   color: white;
+  font-weight: 400;
+  margin-right: 0.5rem;
 }
 .cta-red:hover {
   background: #170c45;
@@ -35,9 +37,11 @@ body {
   padding-left: 32px;
   padding-right: 26px;
   font-size: 16px;
+  font-weight: 400;
   background: #ffffff;
   border: 2px solid rgb(255, 255, 255);
   box-shadow: 0 13.38px 35.679px #0f082b1a;
+  margin-left: 0.5rem;
 }
 
 main {
@@ -45,7 +49,7 @@ main {
   margin-inline: auto;
 }
 .hero {
-  max-width: 1000px;
+  max-width: 1000px !important;
 }
 
 .intro {
@@ -62,7 +66,7 @@ header {
 header h1 {
   font-size: 4rem;
   font-weight: 400;
-  margin-bottom: 0.5rem;
+  margin-bottom: 2rem;
   letter-spacing: 0.5px;
   line-height: 5rem;
 }
@@ -70,6 +74,7 @@ header p {
   font-size: 1.1rem;
   color: #787a81;
   font-family: "Inter", sans-serif;
+  margin-bottom: 4rem;
 }
 
 li,
