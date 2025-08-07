@@ -9,8 +9,7 @@ body {
   color: #170c45;
   font-family: "Inter", sans-serif;
   line-height: 1.6;
-
-  overflow: hidden Important !important;
+  overflow: hidden !important;
 }
 
 a {
