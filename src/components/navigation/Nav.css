@@ -8,6 +8,10 @@
   border-radius: 12px;
 }
 
+AppBar {
+  margin-left: 20%;
+}
+
 .nav-content {
   max-width: 960px; /* Match the width of your <main> */
   margin: 0 auto;
