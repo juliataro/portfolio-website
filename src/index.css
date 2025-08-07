@@ -43,6 +43,7 @@ a {
 }
 .cta-red:hover {
   background: #170c45;
+  border: 2px solid #170c45;
   color: white;
 }
 .cta-white {
@@ -64,13 +65,10 @@ a {
 }
 
 header {
-  text-align: center;
   margin-top: 1rem;
   margin-left: 20%;
   margin-right: 20%;
   margin-bottom: 2rem;
-  font-family: Cal Sans, sans-serif;
-  border-radius: 12px;
 }
 header h1 {
   font-size: 4rem;
@@ -142,6 +140,9 @@ section h2 {
 }
 section p {
   font-family: "Cal Sans", sans-serif !important;
+}
+
+.section-inner {
 }
 
 /* Web Projects 
@@ -252,8 +253,11 @@ section p {
     padding-left: 10px;
   }
   .section-inner {
-    padding-left: 20px;
-    padding-right: 20px;
+    text-align: center;
+    margin-top: 1rem;
+
+    font-family: Cal Sans, sans-serif;
+    border-radius: 12px;
   }
 
   .footer-row {
