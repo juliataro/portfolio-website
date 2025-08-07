@@ -81,7 +81,7 @@ export default function HomePage() {
             <header>
               <h1>Get Your Website Done by a Full‑Service Expert</h1>
               <p>Everything you need — no agency, no overwhelm.</p>
-              <div>
+              <div cta-section>
                 <button className="cta-red">View My Works</button>
                 <button className="cta-white">
                   <a href="mailto:info@adverbum.ee">

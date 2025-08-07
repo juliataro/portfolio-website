@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  background-color: #f5eff2;
+  background-color: #eae1e5;
   color: #170c45;
   font-family: "Inter", sans-serif;
   line-height: 1.6;
@@ -22,6 +22,10 @@ main {
 a {
   text-decoration: none;
   color: #0a0f2c;
+}
+
+.cta-section {
+  margin-bottom: 4rem;
 }
 
 .cta-red {
@@ -56,17 +60,22 @@ a {
 
 .intro-section {
   background-color: #eae1e5;
+  padding-top: 6rem;
 }
 
 header {
-  margin-bottom: 5rem;
   text-align: center;
-  font-family: "Cal Sans", sans-serif;
+  margin-top: 1rem;
+  font-family: Cal Sans, sans-serif;
+  margin-left: 20%;
+  margin-right: 20%;
+  border-radius: 12px;
+  z-index: 2000;
 }
 header h1 {
   font-size: 4rem;
   font-weight: 400;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
   letter-spacing: 0.5px;
   line-height: 5rem;
 }
@@ -112,6 +121,11 @@ li,
   font-family: "Inter", sans-serif;
   font-size: 1rem;
   line-height: 1.9;
+}
+
+.web-projects-section,
+.design-print-section {
+  background-color: #f5eff2;
 }
 
 section {
