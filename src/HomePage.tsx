@@ -75,21 +75,22 @@ export default function HomePage() {
   return (
     <>
       <main>
-        <Nav />
+        {" "}
+        <header>
+          <Nav />
+        </header>
         <section className="intro-section row-full">
           <div className="section-inner">
-            <header>
-              <h1>Get Your Website Done by a Full‑Service Expert</h1>
-              <p>Everything you need — no agency, no overwhelm.</p>
-              <div cta-section>
-                <button className="cta-red">View My Works</button>
-                <button className="cta-white">
-                  <a href="mailto:info@adverbum.ee">
-                    Get Free Advice On Your Website
-                  </a>
-                </button>
-              </div>
-            </header>
+            <h1>Get Your Website Done by a Full‑Service Expert</h1>
+            <p>Everything you need — no agency, no overwhelm.</p>
+            <div cta-section>
+              <button className="cta-red">View My Works</button>
+              <button className="cta-white">
+                <a href="mailto:info@adverbum.ee">
+                  Get Free Advice On Your Website
+                </a>
+              </button>
+            </div>
 
             <section className="about-skills">
               <div className="about-column">
@@ -132,7 +133,6 @@ export default function HomePage() {
             </section>
           </div>
         </section>
-
         <section className="web-projects-section row-full">
           <div className="section-inner">
             <h2 className="web-dev">WEB DEV</h2>
@@ -155,7 +155,6 @@ export default function HomePage() {
             </div>
           </div>
         </section>
-
         <section className="design-print-section">
           <div className="section-inner">
             <h2>DESIGN & PRINT</h2>
