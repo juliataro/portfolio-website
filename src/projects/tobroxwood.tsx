@@ -95,16 +95,12 @@ const TobroxwoodProject: React.FC = () => {
                 </Typography>
                 <Typography variant="body2" color="text.secondary">
                   Project manager and developer. This is turnkey website that is
-                  made without sketch, as was ordered to be done ASAP and had to
-                  be ready yesterday. <br />
-                  Astra theme had been chosen in case for need to use
-                  WooComerce, and such as secured login page, backup,
-                  Uptimerobot and CAPTCHA.
-                  <br />
-                  As the project had to be done quickly I had no time to find
-                  the copywriter, so my role was to be the Prompt Engineer to
-                  create texts and had arranged with an Estonian teacher I know
-                  to check them out.
+                  made without sketch, as was ordered to be done ASAP. <br />
+                  Astra theme had been chosen for need to use WooComerce in the
+                  future.
+                  <br />I used plugins to secure the login page, to make
+                  backups, had been installed UptimeRobot for real-time
+                  monitoring performance and CAPTCHA.
                 </Typography>
               </Box>
             </CardContent>
