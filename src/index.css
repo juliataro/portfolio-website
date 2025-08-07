@@ -48,13 +48,10 @@ main {
   max-width: 100vw;
   margin-inline: auto;
 }
-.hero {
-  max-width: 1000px !important;
-}
 
 .intro {
   background-color: #eae1e5;
-
+  max-width: 60vw;
   padding-top: 3rem;
 }
 
