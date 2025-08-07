@@ -62,6 +62,7 @@ a {
 .intro-section {
   background-color: #eae1e5;
   padding-top: 6rem;
+  align-items: center;
 }
 
 header {
@@ -76,12 +77,14 @@ header {
   margin-bottom: 1rem;
   letter-spacing: 0.5px;
   line-height: 5rem;
+  text-align: center;
 }
 .section-inner p {
   font-size: 1.1rem;
   color: #787a81;
   font-family: "Inter", sans-serif;
   margin-bottom: 3rem;
+  text-align: center;
 }
 
 li,
@@ -131,18 +134,17 @@ li,
 section {
   padding-bottom: 2rem;
   font-family: "Cal Sans", sans-serif;
+  text-align: center;
 }
 section h2 {
   font-size: 2.5rem;
   font-weight: 900;
   margin-bottom: 1.5rem;
   color: #0a0f2c;
+  text-align: center;
 }
 section p {
   font-family: "Cal Sans", sans-serif !important;
-}
-
-.section-inner {
 }
 
 /* Web Projects 
@@ -168,6 +170,13 @@ section p {
 .section-inner {
   max-width: 1000px;
   margin: 0 auto;
+}
+.section-inner {
+  text-align: center;
+  margin-top: 1rem;
+
+  font-family: Cal Sans, sans-serif;
+  border-radius: 12px;
 }
 
 .grid {
@@ -251,13 +260,6 @@ section p {
   }
   .skills-column {
     padding-left: 10px;
-  }
-  .section-inner {
-    text-align: center;
-    margin-top: 1rem;
-
-    font-family: Cal Sans, sans-serif;
-    border-radius: 12px;
   }
 
   .footer-row {
