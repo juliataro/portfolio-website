@@ -15,6 +15,10 @@ body {
   line-height: 1.6;
 }
 
+main {
+  margin-inline: auto;
+}
+
 a {
   text-decoration: none;
   color: #0a0f2c;
@@ -48,11 +52,6 @@ a {
   border: 2px solid rgb(255, 255, 255);
   box-shadow: 0 13.38px 35.679px #0f082b1a;
   margin-left: 0.5rem;
-}
-
-main {
-  max-width: 1000px !important;
-  margin-inline: auto;
 }
 
 .intro-section {
@@ -129,7 +128,7 @@ section p {
   font-family: "Cal Sans", sans-serif !important;
 }
 
-/* Web Projects */
+/* Web Projects 
 
 .web-projects-section,
 .design-print-section,
@@ -138,7 +137,7 @@ section p {
   margin-left: calc(-50vw + 50%);
   padding: 3rem 0;
 }
-
+*/
 .web-projects-section h2,
 .design-print-section h2 {
   color: #0a0f2c;
