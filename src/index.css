@@ -70,14 +70,14 @@ header {
   margin-right: 20%;
   margin-bottom: 2rem;
 }
-header h1 {
+.section-inner h1 {
   font-size: 4rem;
   font-weight: 400;
   margin-bottom: 1rem;
   letter-spacing: 0.5px;
   line-height: 5rem;
 }
-header p {
+.section-inner p {
   font-size: 1.1rem;
   color: #787a81;
   font-family: "Inter", sans-serif;
