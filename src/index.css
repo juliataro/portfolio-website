@@ -61,20 +61,25 @@ a {
 
 .intro-section {
   background-color: #eae1e5;
-  padding-top: 6rem;
+  padding-top: 4cm;
   align-items: center;
 }
 
 header {
   margin-top: 1rem;
-  margin-left: 20%;
+  margin-left: 8cap;
   margin-right: 20%;
   margin-bottom: 2rem;
+  border-radius: 12px;
+}
+
+.css-nzaom9 {
+  width: 40%;
 }
 .section-inner h1 {
-  font-size: 4rem;
+  font-size: 5rem;
   font-weight: 400;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
   letter-spacing: 0.5px;
   line-height: 5rem;
   text-align: center;
@@ -83,7 +88,6 @@ header {
   font-size: 1.1rem;
   color: #787a81;
   font-family: "Inter", sans-serif;
-  margin-bottom: 3rem;
   text-align: center;
 }
 
@@ -98,7 +102,7 @@ li,
 }
 .web-dev {
   color: #cf4374;
-  padding-top: 6rem;
+  padding-top: 4rem;
 }
 
 .about-skills {
@@ -133,6 +137,7 @@ li,
 
 section {
   padding-bottom: 2rem;
+  padding-top: 5rem;
   font-family: "Cal Sans", sans-serif;
   text-align: center;
 }
@@ -141,7 +146,7 @@ section h2 {
   font-weight: 900;
   margin-bottom: 1.5rem;
   color: #0a0f2c;
-  text-align: center;
+  text-align: left;
 }
 section p {
   font-family: "Cal Sans", sans-serif !important;
@@ -213,6 +218,9 @@ section p {
 .project-card p {
   color: #555;
   font-size: 1rem;
+}
+.sub-header {
+  margin-bottom: 3rem;
 }
 
 .link {

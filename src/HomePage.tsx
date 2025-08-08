@@ -82,7 +82,9 @@ export default function HomePage() {
         <section className="intro-section row-full">
           <div className="section-inner">
             <h1>Get Your Website Done by a Full‑Service Expert</h1>
-            <p>Everything you need — no agency, no overwhelm.</p>
+            <p className="sub-header">
+              Everything you need — no agency, no overwhelm.
+            </p>
             <div cta-section>
               <button className="cta-red">View My Works</button>
               <button className="cta-white">
@@ -92,7 +94,7 @@ export default function HomePage() {
               </button>
             </div>
 
-            <section className="about-skills">
+            <div className="about-skills">
               <div className="about-column">
                 <h2>ABOUT</h2>
                 <p>
@@ -130,7 +132,7 @@ export default function HomePage() {
                   </li>
                 </ul>
               </div>
-            </section>
+            </div>
           </div>
         </section>
         <section className="web-projects-section row-full">
